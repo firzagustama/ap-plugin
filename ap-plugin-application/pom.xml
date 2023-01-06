@@ -5,12 +5,12 @@
 <modelVersion>4.0.0</modelVersion>
 
 <artifactId>ap-plugin-application</artifactId>
-<version>0.0.1-SNAPSHOT</version>
+<version>${project.version}</version>
 
 <parent>
     <artifactId>ap-plugin</artifactId>
     <groupId>corp.bi.go.id</groupId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
 </parent>
 
     <properties>
