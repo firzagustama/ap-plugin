@@ -13,11 +13,8 @@
     <artifactId>ap-plugin</artifactId>
     <packaging>pom</packaging>
     <name>ap-plugin</name>
+    <version>1.0.0</version>
     <description>Service Plugin Bank Indonesia</description>
-
-    <properties>
-        <project.version>1.0.0</project.version>
-    </properties>
 
     <modules>
         <module>ap-plugin-application</module>
