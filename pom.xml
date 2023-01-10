@@ -11,7 +11,6 @@
 
     <groupId>corp.bi.go.id</groupId>
     <artifactId>ap-plugin</artifactId>
-    <version>1.0.0</version>
     <packaging>pom</packaging>
     <name>ap-plugin</name>
     <description>Service Plugin Bank Indonesia</description>
